@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\dweepProj\dweepProj\dweepProj\bin\Release\dweepProj.exe.config
+C:\Users\User\source\repos\dweepProj\dweepProj\dweepProj\bin\Release\dweepProj.exe
+C:\Users\User\source\repos\dweepProj\dweepProj\dweepProj\bin\Release\dweepProj.pdb
+C:\Users\User\source\repos\dweepProj\dweepProj\dweepProj\obj\Release\dweepProj.csprojAssemblyReference.cache
+C:\Users\User\source\repos\dweepProj\dweepProj\dweepProj\obj\Release\dweepProj.Properties.Resources.resources
+C:\Users\User\source\repos\dweepProj\dweepProj\dweepProj\obj\Release\dweepProj.csproj.GenerateResource.cache
+C:\Users\User\source\repos\dweepProj\dweepProj\dweepProj\obj\Release\dweepProj.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\dweepProj\dweepProj\dweepProj\obj\Release\dweepProj.exe
+C:\Users\User\source\repos\dweepProj\dweepProj\dweepProj\obj\Release\dweepProj.pdb
